@@ -1,4 +1,4 @@
-# Orçar - Aplicativo de Geração de Orçamentos
+# Orçar - Aplicativo de geração de Orçamentos
 Orçar é um aplicativo desenvolvido para ajudar profissionais a gerar e enviar orçamentos de forma rápida e eficiente diretamente para seus clientes, eliminando o uso de papel e promovendo uma solução mais sustentável. O app facilita a criação de documentos PDF, gerados na hora, que podem ser compartilhados eletronicamente com os clientes.
 
 Origem do Projeto
